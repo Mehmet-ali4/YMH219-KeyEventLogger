@@ -99,6 +99,6 @@ Bu ödev gerçek bir sistem keylogger'ı **değildir**; yalnızca eğitim amaçl
 
 ## Öğrenci Bilgileri
 
-- **Ad Soyad:** [AD SOYAD]
-- **Öğrenci No:** [ÖĞRENCİ NO]
+- **Ad Soyad:** Mehmet Ali KIRAÇÇAKALI
+- **Öğrenci No:** 250541069
 - **Ders:** Nesne Tabanlı Programlama (YMH 219)
